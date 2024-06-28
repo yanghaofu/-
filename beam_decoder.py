@@ -2,6 +2,7 @@ import torch
 from data_loader import subsequent_mask
 
 
+
 class Beam:
     """ Beam search """
 
